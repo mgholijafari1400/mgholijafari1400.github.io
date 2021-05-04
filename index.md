@@ -15,7 +15,7 @@
 
 ---
 + Diploma : Hazrat Zahra high school
-+ Bachelor of science : Sofware Computer Engineering
++ Bachelor of science : Software Computer Engineering
 _ Iran University of Science and Technology (IUST)
 
 ### language
