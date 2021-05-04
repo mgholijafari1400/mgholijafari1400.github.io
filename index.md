@@ -1,30 +1,22 @@
 
-### Anahita Taheri
+### Zahra Gholijafari
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Zahra
++ last name : Gholijafari
++ Date of birth : 1981/May/05
++ I am a teacher and Sofrware engineer
 + location : Tehran , I.R.Iran
-
-
-### Skill Highlights
-
----
-+ trade on Tehran Stock Exchange and Forex
-+ translating
-
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Hazrat Zahra high school
++ Bachelor of science : Sofware Computer Engineering
+_ Iran University of Science and Technology (IUST)
 
 ### language
 
@@ -35,15 +27,16 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ Studing books
 + travel 
-+ playing volleyball
++ playing PingPong
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in HighSchool as a Teacher.
++ C# .net Programmer
++ android developer with Xamarin Visual Studio 2019
 
 
 
