@@ -8,7 +8,7 @@
 + name: Zahra
 + last name : Gholijafari
 + Date of birth : 1981/May/05
-+ I am a teacher and Sofrware engineer
++ I am a teacher and Software engineer
 + location : Tehran , I.R.Iran
 
 ### Education
