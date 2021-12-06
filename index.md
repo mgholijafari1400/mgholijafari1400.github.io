@@ -9,12 +9,12 @@
 + last name : Gholijafari
 + Date of birth : 1981/May/05
 + I am a teacher and Software engineer
-+ location : Tehran , I.R.Iran
++ location : Pishva,Tehran , I.R.Iran
 
 ### Education
 
 ---
-+ Diploma : Hazrat Zahra high school
++ Diploma :Pshva Hazrat Zahra high school
 + Bachelor of science : Software Computer Engineering
 _ Iran University of Science and Technology (IUST)
 
@@ -24,12 +24,6 @@ _ Iran University of Science and Technology (IUST)
 + Persian
 + English
 
-### Favorites
-
----
-+ Studing books
-+ travel 
-+ playing PingPong
 
 ### working Experience
 
@@ -38,7 +32,12 @@ _ Iran University of Science and Technology (IUST)
 + C# .net Programmer
 + android developer with Xamarin Visual Studio 2019
 
+### Favorites
 
+---
++ Studing books
++ travel 
++ playing PingPong
 
 
 --- 
