@@ -28,7 +28,8 @@ _ Iran University of Science and Technology (IUST)
 ### working Experience
 
 ---
-+ I am working in HighSchool as a Teacher.
++I taught at the university for two years 2005-2007
++  I am working in HighSchool as a Teacher.2007-2022
 + C# .net Programmer
 + android developer with Xamarin Visual Studio 2019
 
@@ -36,8 +37,8 @@ _ Iran University of Science and Technology (IUST)
 
 ---
 + Studing books
-+ travel 
-+ playing PingPong
++ traveling 
+
 
 
 --- 
